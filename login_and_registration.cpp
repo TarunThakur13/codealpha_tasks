@@ -1,6 +1,4 @@
-#include <iostream>
-#include <fstream>
-#include <string>
+#include <bits/stdc++.h>
 using namespace std;
 
 bool loginUser(const string& username, const string& password) {
