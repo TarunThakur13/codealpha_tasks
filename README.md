@@ -27,4 +27,20 @@ No duplicate numbers in any row, column, or 3×3 sub-grid
 
 Outputs the completed Sudoku board if a solution exists
 
+usability
+
+🔐 Command-Line User Authentication System (C++)
+A simple text-based user authentication tool that allows:
+
+User Registration: Stores username and password in a file (users.txt)
+
+User Login: Validates input credentials against stored records
+
+📋 Features:
+
+Uses basic file handling for persistent storage
+
+Demonstrates core concepts like input/output, file I/O, and condition checking
+
+
 
