@@ -12,7 +12,10 @@ Computes the weighted average (CGPA) using credit-weighted grade points
 
 Outputs the final CGPA rounded to two decimal places
 
-🧩 Command-Line Sudoku Solver (C++)
+![image](https://github.com/user-attachments/assets/46c3edb2-d1b4-48d8-883d-26e4a0f244ff)
+
+🧩 Sudoku Solver (C++)
+
 A backtracking-based command-line tool that solves a 9x9 Sudoku puzzle.
 
 📋 Features:
@@ -25,9 +28,7 @@ Ensures Sudoku constraints:
 
 No duplicate numbers in any row, column, or 3×3 sub-grid
 
-Outputs the completed Sudoku board if a solution exists
-
-usability
+![image](https://github.com/user-attachments/assets/0ae0dec0-21f3-4206-858d-aafb66740925)
 
 🔐 Command-Line User Authentication System (C++)
 A simple text-based user authentication tool that allows:
@@ -42,5 +43,6 @@ Uses basic file handling for persistent storage
 
 Demonstrates core concepts like input/output, file I/O, and condition checking
 
+![image](https://github.com/user-attachments/assets/0e114372-39ed-4321-99de-a33604107943)
 
 
