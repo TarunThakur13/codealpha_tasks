@@ -1,4 +1,5 @@
-CGPA Calculator (C++)
+CGPA Calculator (C++) : 
+
 A command-line based tool that calculates a student's CGPA using course names, credit values, and letter grades.
 
 📋 Features:
