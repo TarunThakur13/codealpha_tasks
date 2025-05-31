@@ -1,4 +1,4 @@
-#include <bits/sdtc++.h>
+#include <bits/stdc++.h>
 using namespace std;
 
 class Course {
