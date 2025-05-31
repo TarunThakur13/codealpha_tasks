@@ -1,5 +1,4 @@
-#include <iostream>
-#include <vector>
+#include <bits/stdc++.h>
 using namespace std;
 
 bool isPlacementValid(const vector<vector<int>>& grid, int row, int col, int value) {
